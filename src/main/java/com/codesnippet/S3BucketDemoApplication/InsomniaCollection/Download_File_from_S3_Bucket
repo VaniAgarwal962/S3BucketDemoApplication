@@ -1,0 +1,2 @@
+curl --request GET \
+  --url http://localhost:8080/download/sampleFile2.txt

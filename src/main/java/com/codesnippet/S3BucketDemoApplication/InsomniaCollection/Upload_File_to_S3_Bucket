@@ -1,0 +1,4 @@
+curl --request POST \
+  --url http://localhost:8080/upload \
+  --header 'Content-Type: multipart/form-data' \
+  --form 'file=@C:\Users\vania\OneDrive\Desktop\insomnia\sampleFile2.txt'
